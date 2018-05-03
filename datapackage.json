@@ -1,0 +1,164 @@
+{
+    "name": "bigquery-public-data_samples",
+    "title": "BigQuery Public Data Samples",
+    "descriptions": "A collection of tables that are subset of larger datasets.  These tables are suited for testing queries and learning BigQuery.",
+    "licenses": [
+        {
+            "name": "",
+            "path": "",
+            "title": ""
+        }
+    ],
+    "keywords": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "version": "",
+    "last_updated": "",
+    "sources": [
+        {
+            "name": "BigQuery",
+            "path": "https://cloud.google.com/bigquery/",
+            "title": "BigQuery"
+        }
+    ],
+    "resources": [
+        {
+            "path": "data/github_nested.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "github_nested"
+        },
+        {
+            "path": "data/github_timeline.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "github_timeline"
+        },
+        {
+            "path": "data/gsod.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "gsod"
+        },
+        {
+            "path": "data/natality.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "natality"
+        },
+        {
+            "path": "data/shakespeare.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "shakespeare"
+        },
+        {
+            "path": "data/trigrams.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "trigrams"
+        },
+        {
+            "path": "data/wikipedia.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Date",
+                        "type": "date",
+                        "format": "any"
+                    },
+                    {
+                        "name": "Price",
+                        "type": "string"
+                    }
+                ]
+            },
+            "name": "wikipedia"
+        }
+    ],
+    "views": [
+        {
+            "name": "graph",
+            "title": "",
+            "specType": "",
+            "spec": {
+                "type": "",
+                "group": "",
+                "series": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

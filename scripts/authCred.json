@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bigquery-publicd-1525266431154",
+  "private_key_id": "3371eed3889a6e519cdfabbc875d4d200902b6e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmou/hzpThZPhc\napB0iYWjgEDKECOQCJ+91NrfkaUGNLnMDtQXSr0dbEeKEUe2wWPAqyObsLN4ij++\nCv2ztsxIF5qaUkZjEyTta5Of8yuj4eTy5Z5u0rVF7RImNo/szm6I7N05sMwqaC0e\nuv/kVu0J97Q4zaqGl9CGn+9v+rzT7OARwpjuBCAyV8JDEVCMFJmAysX0L1W9b0Za\n3UVTUJpIXcUAtRKZiIDc5ltlhwy+P7stF1FzRos8D3hcd4tbcx4U0PFCh/2rphtX\nIiorJuuarfaSONIKkSBHGlmhYDhDuD0fqs5oVAAg3ZE+pi+6/ksbWqUInYXtVteB\nhwit4t71AgMBAAECggEAVmRwYPBGGov88HlGdTDSa2VuX4JeH+TrGWuzNQ3UeBem\nBUcEsVjgsDXQMmq4pz+XwyMYKoitIZj/uYtab0gpC1Q0KFxrW09fhMPIP6ESFshW\nP5o9l5u8JV5hbwj/LqBBDW9Uivir8bKmPB2mHv1ku1gbHTAFEXeqt9MPGK4er28U\nVui2YQGHo2I9uJql2XIt/wTgPkBk13r7TPDp9Sh0fuZMVRJYB5dq6fpcH2seafUB\n3gkI+SD2HovAdOUsSsZp+QYXyjXZmC5aPzpkiAhI3OVBPWJnmnLlLNm3qAskfAJA\nGpkhpyci7SeFO5LcyGwRSavffF8+eXhtVf5dUuGHfQKBgQD/fgHqvG8WoH8vSQLW\niQ5xghAJI8wiMJqgebPBJnan0pv+oETPp1DX7WqbHdU2AdK4EaLxeyQBzqokbHLL\nGnVfBIJuOQqxdAFeuDXQKbCUdlDdSJddkRgcB+r2OhzaIrrDvKnOShfKudzoKXri\noeO2y9iNdx5PWUQmiKbDUWdN4wKBgQDnGEh7nsaoeW9dG1GDqCcwGyW84BCUEE9u\nVGlbu/PCpLIxYDZlEVHhoQpKxJGmITg8u4xUBFYknQW7tiV2Saj35HSrmWwSj1g1\n9NV5i93B1znBp0dog9VEh0ad6wZLi1wZCE7dWQf5Kp58cFyyChFqgcfNa/1ieS4O\nhLsSDWW3RwKBgQDwNtcyjqybx5cNLEZA02gDDNhq339kffJEA2kgpztUms4UXzeT\nTarS+eQLp8b5Gkm2ys464R5/nIGX8WcU0vGbvq+rVnJZWcqX9faSmz/stjlddIzs\naikS4dbmXskVxyV2N4In9L3d21Z56dYiEzf4fDxE9cRHspRC7qRsa7MHJQKBgQDU\nqPcCs7ESlnVR0/LmWhZ94W2P6w22g2/lEs7FuSdvZgoJAAXuacrU/FIxTcTOgWF0\nGg7fvgHbvZfqDotY2B4iyNxIkW3vgnPla0ILkRdn6vxeZeaDmlXmsynb5syrNjpx\nWsDgVq7Mr1ibIPdca4FtZrKMKiVJukQU3jYcPbHtvwKBgDV7q2e9GdfNXCAoZfeD\n49Mfu0vbJ+TXeQkH4F6gxGJ/I0LfPUg4i05sIousvbB9R9Vl+f93c9Dr3PwJtbx/\nXjkXMeLCCKY79KO8CT9XCWVIDHVDO53DrBCvnWD+bCrmewWcjf7/b+fZSquFSUKu\ncwDXXkAJchDpe+z4ppepimMJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "saad-ahmed@bigquery-publicd-1525266431154.iam.gserviceaccount.com",
+  "client_id": "109419578349695895420",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saad-ahmed%40bigquery-publicd-1525266431154.iam.gserviceaccount.com"
+}
